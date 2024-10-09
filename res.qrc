@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>res/img_bg_level_1.jpg</file>
+        <file>res/bullet_14.png</file>
+        <file>res/hero.png</file>
+        <file>res/enemy.png</file>
+        <file>res/hero_bullet_7.png</file>
+        <file>res/heroplane.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>res/bg.wav</file>
+        <file>res/bomb.wav</file>
+    </qresource>
+</RCC>
